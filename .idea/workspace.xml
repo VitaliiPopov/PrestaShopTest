@@ -24,6 +24,10 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Documents\git\PrestaShopTest\src\test\java" />
+      <recent name="E:\Documents\git\PrestaShopTest\src\main\java" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="TestNG" type="TestNG">
@@ -88,30 +92,30 @@
       <screen x="0" y="0" width="1600" height="870" />
     </state>
     <state x="596" y="316" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1600.870/-1920.0.1920.1050@0.0.1600.870" timestamp="1589469705333" />
-    <state x="580" y="175" key="FileChooserDialogImpl" timestamp="1589470271204">
+    <state x="580" y="175" key="FileChooserDialogImpl" timestamp="1589472297585">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="580" y="175" key="FileChooserDialogImpl/0.0.1600.870/-1920.0.1920.1050@0.0.1600.870" timestamp="1589470271204" />
-    <state width="1557" height="226" key="GridCell.Tab.0.bottom" timestamp="1589470311439">
+    <state x="580" y="175" key="FileChooserDialogImpl/0.0.1600.870/-1920.0.1920.1050@0.0.1600.870" timestamp="1589472297585" />
+    <state width="1557" height="226" key="GridCell.Tab.0.bottom" timestamp="1589472384560">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="226" key="GridCell.Tab.0.bottom/0.0.1600.870/-1920.0.1920.1050@0.0.1600.870" timestamp="1589470311439" />
-    <state width="1557" height="226" key="GridCell.Tab.0.center" timestamp="1589470311439">
+    <state width="1557" height="226" key="GridCell.Tab.0.bottom/0.0.1600.870/-1920.0.1920.1050@0.0.1600.870" timestamp="1589472384560" />
+    <state width="1557" height="226" key="GridCell.Tab.0.center" timestamp="1589472384560">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="226" key="GridCell.Tab.0.center/0.0.1600.870/-1920.0.1920.1050@0.0.1600.870" timestamp="1589470311439" />
-    <state width="1557" height="226" key="GridCell.Tab.0.left" timestamp="1589470311439">
+    <state width="1557" height="226" key="GridCell.Tab.0.center/0.0.1600.870/-1920.0.1920.1050@0.0.1600.870" timestamp="1589472384560" />
+    <state width="1557" height="226" key="GridCell.Tab.0.left" timestamp="1589472384560">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="226" key="GridCell.Tab.0.left/0.0.1600.870/-1920.0.1920.1050@0.0.1600.870" timestamp="1589470311439" />
-    <state width="1557" height="226" key="GridCell.Tab.0.right" timestamp="1589470311439">
+    <state width="1557" height="226" key="GridCell.Tab.0.left/0.0.1600.870/-1920.0.1920.1050@0.0.1600.870" timestamp="1589472384560" />
+    <state width="1557" height="226" key="GridCell.Tab.0.right" timestamp="1589472384560">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state width="1557" height="226" key="GridCell.Tab.0.right/0.0.1600.870/-1920.0.1920.1050@0.0.1600.870" timestamp="1589470311439" />
-    <state x="280" y="9" key="SettingsEditor" timestamp="1589471626196">
+    <state width="1557" height="226" key="GridCell.Tab.0.right/0.0.1600.870/-1920.0.1920.1050@0.0.1600.870" timestamp="1589472384560" />
+    <state x="280" y="9" key="SettingsEditor" timestamp="1589472436330">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
-    <state x="280" y="9" key="SettingsEditor/0.0.1600.870/-1920.0.1920.1050@0.0.1600.870" timestamp="1589471626196" />
+    <state x="280" y="9" key="SettingsEditor/0.0.1600.870/-1920.0.1920.1050@0.0.1600.870" timestamp="1589472436330" />
     <state x="182" y="95" key="new project wizard" timestamp="1589469754932">
       <screen x="0" y="0" width="1600" height="870" />
     </state>
